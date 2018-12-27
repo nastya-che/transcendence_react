@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="954px" viewBox="0 0 192 954" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="33.7210357%" x2="66.7620421%" y2="64.7326996%" id="linearGradient-1">
+            <stop stop-color="#FFF1CA" offset="0%"></stop>
+            <stop stop-color="#FFD682" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cookies-Policy-[Desktop]" transform="translate(-1408.000000, -1589.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Background-patterns" transform="translate(-4.000000, 35.000000)">
+                <g id="Group" transform="translate(1412.000000, 1503.000000)">
+                    <path d="M20,1021 C169,868.663703 243.5,698.537381 243.5,510.621035 C243.5,322.70469 169,152.578368 20,0.242070787 L20,1021 Z" id="Oval" opacity="0.556547619" transform="translate(131.750000, 510.621035) scale(-1, 1) translate(-131.750000, -510.621035) "></path>
+                    <path d="M1.56319402e-13,1038 C149,885.663703 223.5,715.537381 223.5,527.621035 C223.5,339.70469 149,169.578368 1.56319402e-13,17.2420708 L1.56319402e-13,1038 Z" id="Oval" opacity="0.35" transform="translate(111.750000, 527.621035) scale(-1, 1) translate(-111.750000, -527.621035) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

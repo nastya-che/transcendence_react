@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="348px" height="1083px" viewBox="0 0 348 1083" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="33.7210357%" x2="13.3825981%" y2="85.7467456%" id="linearGradient-1">
+            <stop stop-color="#FFF1CA" offset="0%"></stop>
+            <stop stop-color="#FFD682" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-1920" transform="translate(0.000000, -6133.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="In-the-news" transform="translate(-30.000000, 6123.000000)">
+                <g id="Group-6">
+                    <path d="M30.734375,1092.75793 C261.911458,931.16885 377.5,750.709195 377.5,551.378965 C377.5,352.048734 261.911458,171.589079 30.734375,10 L30.734375,1092.75793 Z" id="Oval" opacity="0.35"></path>
+                    <path d="M0.734375,1082.75793 C231.911458,921.16885 347.5,740.709195 347.5,541.378965 C347.5,342.048734 231.911458,161.589079 0.734375,-1.13686838e-13 L0.734375,1082.75793 Z" id="Oval"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

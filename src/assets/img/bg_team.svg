@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="793px" viewBox="0 0 114 793" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="42.9250559%" y1="35.3735312%" x2="11.077321%" y2="55.856932%" id="linearGradient-1">
+            <stop stop-color="#DAF3FF" offset="0%"></stop>
+            <stop stop-color="#B8DFF6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.556547619">
+        <g id="Team-Page-[Desktop]" transform="translate(0.000000, -840.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group" transform="translate(-109.000000, 706.000000)">
+                <path d="M0,1021 C148.666667,868.627577 223,698.46091 223,510.5 C223,322.53909 148.666667,152.372423 0,0 L0,1021 Z" id="Oval"></path>
+                <path d="M0,1061 C148.666667,908.627577 223,738.46091 223,550.5 C223,362.53909 148.666667,192.372423 0,40 L0,1061 Z" id="Oval"></path>
+            </g>
+        </g>
+    </g>
+</svg>

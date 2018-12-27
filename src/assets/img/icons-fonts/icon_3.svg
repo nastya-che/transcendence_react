@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="30px" height="25px" viewBox="0 0 30 25" enable-background="new 0 0 30 25" xml:space="preserve">
+<title>Group 22</title>
+<desc>Created with Sketch.</desc>
+<g id="Symbols">
+	<g id="icon-how-step-3" transform="translate(-20.000000, -22.000000)">
+		<g id="Group-22">
+			<g transform="translate(21.000000, 23.000000)">
+				<rect x="1.117" y="17.938" fill="#FFBB32" width="25.767" height="1.5"/>
+				<rect x="3.917" y="21.771" fill="#FFBB32" width="20.167" height="1.5"/>
+				<rect x="-0.75" y="13.625" fill="#FFBB32" width="3.367" height="1.5"/>
+				
+					<rect x="3.074" y="4.137" transform="matrix(0.6979 0.7162 -0.7162 0.6979 4.9381 -1.9326)" fill="#FFBB32" width="3.373" height="1.5"/>
+				<rect x="13.25" y="-0.75" fill="#FFBB32" width="1.5" height="3.417"/>
+				
+					<rect x="22.49" y="3.201" transform="matrix(0.7162 0.6979 -0.6979 0.7162 10.0076 -14.8329)" fill="#FFBB32" width="1.5" height="3.373"/>
+				<rect x="25.384" y="13.625" fill="#FFBB32" width="3.366" height="1.5"/>
+				<path fill="#FFBB32" d="M22.217,15.125h-1.5v-0.75c0-3.814-3.013-6.917-6.717-6.917c-3.704,0-6.717,3.103-6.717,6.917v0.75h-1.5
+					v-0.75c0-4.641,3.686-8.417,8.217-8.417c4.53,0,8.217,3.775,8.217,8.417V15.125z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

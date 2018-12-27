@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="463px" height="555px" viewBox="0 0 463 555" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="78.8952991%" y1="97.8401275%" x2="64.9557625%" y2="17.1756464%" id="linearGradient-1">
+            <stop stop-color="#F2F3FF" offset="0%"></stop>
+            <stop stop-color="#C5C8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-1920" transform="translate(-166.000000, -10871.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Meet-the-team" transform="translate(166.000000, 10755.000000)">
+                <g id="Group-10" transform="translate(0.000000, 116.000000)">
+                    <path d="M245.727219,549.491201 C481.215805,593.602236 441.091428,363.044399 441.091428,255.739812 C441.091428,148.435225 365.490702,-17.2663571 220.545714,41.1306382 C118.446711,82.265382 6.35960681e-14,148.435225 5.68434189e-14,255.739812 C5.68434189e-14,363.044399 137.284176,529.177966 245.727219,549.491201 Z" id="Oval" opacity="0.349609375"></path>
+                    <path d="M264.727219,520.491201 C500.215805,564.602236 460.091428,334.044399 460.091428,226.739812 C460.091428,119.435225 384.490702,-46.2663571 239.545714,12.1306382 C137.446711,53.265382 19,119.435225 19,226.739812 C19,334.044399 156.284176,500.177966 264.727219,520.491201 Z" id="Oval"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+{
+  "name": "react-tr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "css-loader": "^1.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.10.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "dependencies": {
+    "file-loader": "^2.0.0",
+    "jquery": "^3.3.1",
+    "jquery-mousewheel": "^3.1.13",
+    "react": "^16.6.3",
+    "react-bodymovin": "^2.0.0",
+    "react-dom": "^16.6.3",
+    "react-lottie": "^1.2.3",
+    "react-router": "^4.3.1",
+    "react-router-config": "^4.4.0-beta.6",
+    "react-router-dom": "^4.3.1",
+    "react-router-native": "^4.3.0",
+    "react-scrollable-anchor": "^0.6.1"
+  }
+}

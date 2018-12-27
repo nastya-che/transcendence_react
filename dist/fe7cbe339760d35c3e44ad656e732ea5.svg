@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="214px" height="1042px" viewBox="0 0 214 1042" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="42.9250559%" y1="35.3735312%" x2="11.077321%" y2="55.856932%" id="linearGradient-1">
+            <stop stop-color="#DAF3FF" offset="0%"></stop>
+            <stop stop-color="#B8DFF6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.556547619">
+        <g id="Desktop-HD-1920" transform="translate(0.000000, -1776.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Background-patterns" transform="translate(-707.000000, 40.000000)">
+                <g id="Group-2" transform="translate(697.000000, 1726.000000)">
+                    <path d="M0.301315784,1021.3632 C149.301316,869.026905 223.801316,698.900583 223.801316,510.984237 C223.801316,323.067892 149.301316,152.94157 0.301315784,0.605272828 L0.301315784,1021.3632 Z" id="Oval"></path>
+                    <path d="M0.301315784,1061.3632 C149.301316,909.026905 223.801316,738.900583 223.801316,550.984237 C223.801316,363.067892 149.301316,192.94157 0.301315784,40.6052728 L0.301315784,1061.3632 Z" id="Oval"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

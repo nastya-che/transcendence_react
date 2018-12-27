@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="522px" height="493px" viewBox="0 0 522 493" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="76.1578409%" y1="15.8919973%" x2="93.2493266%" y2="20.4012514%" id="linearGradient-1">
+            <stop stop-color="#DAF3FF" offset="0%"></stop>
+            <stop stop-color="#B8DFF6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.4720764%" y1="37.2244845%" x2="68.2374702%" y2="19.7126248%" id="linearGradient-2">
+            <stop stop-color="#DAF3FF" offset="0%"></stop>
+            <stop stop-color="#B8DFF6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-1920" transform="translate(-203.000000, -10133.000000)" fill-rule="nonzero">
+            <g id="Background-patterns" transform="translate(-707.000000, 40.000000)">
+                <g id="Group-9" transform="translate(839.000000, 9991.000000)">
+                    <path d="M561.082592,229.692872 C695.730892,431.263523 462.102949,486.434101 360.742948,529.499789 C259.382948,572.565478 73.0106932,568.672955 70.9420529,410.270956 C69.4849062,298.692859 85.221159,161.845059 186.581159,118.779371 C287.94116,75.7136824 499.076736,136.869116 561.082592,229.692872 Z" id="Oval" fill="url(#linearGradient-1)" opacity="0.665336682" transform="translate(336.344825, 328.820830) rotate(-25.000000) translate(-336.344825, -328.820830) "></path>
+                    <path d="M560.228518,216.9809 C694.876818,418.551551 461.248874,473.72213 359.888874,516.787818 C258.528874,559.853506 72.1566192,555.960984 70.0879789,397.558985 C68.6308322,285.980887 84.3670849,149.133087 185.727085,106.067399 C287.087086,63.0017109 498.222661,124.157144 560.228518,216.9809 Z" id="Oval" fill="url(#linearGradient-2)" transform="translate(335.490751, 316.108858) rotate(-25.000000) translate(-335.490751, -316.108858) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

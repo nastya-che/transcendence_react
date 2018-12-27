@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="669px" height="977px" viewBox="0 0 669 977" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="85.2054703%" y1="21.4060517%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F2F3FF" offset="0%"></stop>
+            <stop stop-color="#C5C8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-1920" transform="translate(-1251.000000, -10838.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Meet-the-team" transform="translate(166.000000, 10755.000000)">
+                <g id="Group-11" transform="translate(1085.000000, 83.000000)">
+                    <path d="M444,967.015625 C869.5,1046.76563 797,629.931437 797,435.931437 C797,241.931437 660.398438,-57.6466877 398.5,47.9314373 C214.019188,122.300488 6.90446568e-14,241.931437 5.68434189e-14,435.931437 C5.68434189e-14,629.931437 248.056256,930.290564 444,967.015625 Z" id="Oval" opacity="0.35"></path>
+                    <path d="M458,941.015625 C883.5,1020.76563 811,603.931437 811,409.931437 C811,215.931437 674.398438,-83.6466877 412.5,21.9314373 C228.019188,96.3004883 14,215.931437 14,409.931437 C14,603.931437 262.056256,904.290564 458,941.015625 Z" id="Oval"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="342px" height="477px" viewBox="0 0 342 477" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="78.8952991%" y1="97.8401275%" x2="64.9557625%" y2="17.1756464%" id="linearGradient-1">
+            <stop stop-color="#F2F3FF" offset="0%"></stop>
+            <stop stop-color="#C5C8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.349609375">
+        <g id="Desktop-HD-1920" transform="translate(-1578.000000, -12390.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Background-patterns" transform="translate(-707.000000, 40.000000)">
+                <path d="M2425.80245,12800.2985 C2337.90869,12752.3637 2266.0145,12570.5086 2296.10447,12477.9116 C2326.19444,12385.3146 2446.97296,12361.4249 2546.62262,12354.5553 C2688.0904,12344.8028 2706.87088,12508.99 2676.78091,12601.587 C2646.69094,12694.184 2616.6674,12904.391 2425.80245,12800.2985 Z" id="Oval" transform="translate(2489.092152, 12591.347418) rotate(-3.000000) translate(-2489.092152, -12591.347418) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

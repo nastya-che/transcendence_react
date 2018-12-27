@@ -1,0 +1,217 @@
+
+/*
+================================================================================
+|                                     HEADER                                   |
+================================================================================
+*/
+header{
+	background:#FFF;
+    position: fixed;
+	width:100%; 
+	height: 89px;
+	min-width: $min-width;
+	text-align:left;	
+	order: 1;	
+    -webkit-order: 1;
+    z-index: 100;
+    .wrapper{
+		height: 86px;
+        display: flex;
+        justify-content: space-between;
+		align-items: center;
+        &:after{
+            display: none
+        }
+    }
+    &.fixed{
+        box-shadow: 0 4px 5px 0 rgba(0,0,0,0.1);
+    }
+}
+.logo{
+    width: 234px;
+    a{
+        display: block; 
+    }
+    img{
+        width: 100%;
+        display: block;
+    }
+}
+
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+	padding-top: 6px;
+    &__item{
+        display: inline-block;
+        vertical-align: top;
+        
+        &.active{
+            .main-nav__link{
+                &:after{
+                    display: block;
+                    content: '';
+                    position: absolute;
+                    left: 0px;
+                    bottom: -10px;
+                    width: 100%;
+                    height: 5px;
+                    background: $site-color;
+                }
+            }
+        }
+    }
+    &__link{
+        display: block;
+        font-size: 18px;
+        line-height: 16px;
+        font-weight: 500;
+        position: relative;
+        color: #000000;
+        letter-spacing: 0.32px;
+        &:hover{
+            color: $site-color
+        }
+    }
+}
+.button-nav {
+    display: none;
+	vertical-align: middle;
+	position: absolute;
+	right: 30px;
+	top: 30px;
+	width: 30px;
+	height: 24px;
+	z-index: 9999;
+	transition: all .3s; 
+	&:hover {
+		span {
+			background-color: #3B8BE7;
+		}
+	}
+	span {
+		display: block;
+		margin: 2px auto 8px auto;
+		width: 30px;
+		border-radius: 20%;
+		background-color: #1E2739;
+		height: 2px;
+		transition: all .5s;
+		&:nth-child(2) {
+			transition: all .3s;
+		}
+	}
+	&.active {
+		span {
+			&:first-child {
+				transform: rotate(135deg);
+				position: absolute;
+				margin: 0 0 0 0;
+				width: 30px;
+				left: 0px;
+				top: 10px;
+			}
+			&:nth-child(2) {
+				background-color: transparent;
+			}
+			&:nth-child(3) {
+				transform: rotate(-135deg);
+				position: absolute;
+				width: 30px;
+				margin: 0 0 0 0;
+				right: 0px;                    
+				top: 10px;                    
+			}
+		}
+	}
+}
+.box-main-nav {
+    width: 48%;
+}
+
+
+
+@media screen and (max-width: 1280px) {
+	
+}
+
+@media screen and (max-width: 1023px){
+	.main-nav {
+		display: flex;
+		position: fixed;
+		width: 100%;
+		background: white;
+		right: -200%;
+		top: 89px;
+		height: 100%;
+		max-height: calc(100% - 89px);
+		overflow-y: auto;
+		overflow-x: hidden;
+		padding: 30px 30px 0;
+		flex-direction: column;
+		justify-content: flex-start;
+		transition: .5s;
+		&::after {
+			display: block;
+			content: '';
+			position: absolute;
+			right: -90px;
+    		top: -13%;
+			background: url(../img/bg_1.svg) no-repeat left top;
+			width: 258px;
+			height: 732px;
+			z-index: -1;
+		}
+		&__item {
+			margin-bottom: 54px;
+		}
+		&__link {
+			display: inline-block;
+			font-size: 28px;
+			line-height: 21px;
+			padding-right: 7px;
+		}
+	}
+	.button-nav {
+		display: inline-block;
+	}
+	.main-nav.open {
+		right: 0;
+	}
+    
+}
+
+@media screen and (max-width: 370px) {
+    .button-nav{
+        right: 15px;
+    }
+    header .wrapper{
+        height: 89px;
+    }
+    
+    
+}
+
+@media screen and (max-width: 767px) {
+    .button-nav{
+        top: 30px;
+    }
+	header.fixed{
+        height: 65px;
+        .wrapper{
+            height: 100%;
+        }
+        .button-nav{
+            top: 17px;
+        }
+        .main-nav{
+            top: 65px;
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {
+	.main-nav::after{
+        right: -24%;
+    }
+}

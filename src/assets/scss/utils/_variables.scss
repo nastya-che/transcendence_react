@@ -1,0 +1,27 @@
+/* reset */
+$min-width: 320px; 
+$max-width: 1440px; 
+$base-bg: #FFF; 
+$base-font-size: 18px; 
+$base-line-height: 22px; 
+$base-font-family: 'Calibre', sans-serif; 
+$custom-font-family: 'Calibre', sans-serif; 
+$link-color: #4A90E2;
+$default-transition:all 0.2s linear;
+
+/* main variables */
+
+//text, titles
+$text-color: #8F8F8F;
+$site-color: #3B8BE7;
+$orange-color: #ffbb32;
+$site-color-hover: #60a6f6;
+$title-color: #1E2739;
+$title-font-family: $custom-font-family;
+
+$font-size-h1: 66px;
+$line-height-h1: 66px;
+$font-size-h2: 46px;
+$line-height-h2: 52px;
+$font-size-h3: 26px;
+$line-height-h3: 26px;

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="419px" height="847px" viewBox="0 0 419 847" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="71.7847573%" y1="83.5463342%" x2="97.0274481%" y2="44.5718097%" id="linearGradient-1">
+            <stop stop-color="#FFF1CA" offset="0%"></stop>
+            <stop stop-color="#FFD682" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-1920" transform="translate(0.000000, -4041.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Background-patterns" transform="translate(-707.000000, 40.000000)">
+                <g id="Group-4" transform="translate(0.000000, 3751.000000)">
+                    <path d="M657.64351,1128.1889 C1083.14351,1207.9389 1010.64351,791.104716 1010.64351,597.104716 C1010.64351,403.104716 874.041948,103.526591 612.14351,209.104716 C427.662698,283.473767 213.64351,403.104716 213.64351,597.104716 C213.64351,791.104716 461.699766,1091.46384 657.64351,1128.1889 Z" id="Oval" opacity="0.35" transform="translate(614.485218, 662.688632) scale(1, -1) rotate(-41.000000) translate(-614.485218, -662.688632) "></path>
+                    <path d="M657.64351,1088.1889 C1083.14351,1167.9389 1010.64351,751.104716 1010.64351,557.104716 C1010.64351,363.104716 874.041948,63.5265905 612.14351,169.104716 C427.662698,243.473767 213.64351,363.104716 213.64351,557.104716 C213.64351,751.104716 461.699766,1051.46384 657.64351,1088.1889 Z" id="Oval" transform="translate(614.485218, 622.688632) scale(1, -1) rotate(-41.000000) translate(-614.485218, -622.688632) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

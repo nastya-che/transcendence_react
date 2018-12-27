@@ -1,0 +1,166 @@
+.cookies-main {
+	padding-top: 93px;
+	padding-left: 5px;
+	position: relative;
+	&::before {
+		display: block;
+		content: '';
+		position: absolute;
+		right: -61px;
+		top: 4%;
+		background: url(../img/bg_1.svg) no-repeat left top;
+		width: 258px;
+		height: 732px;
+		z-index: 0;
+	}
+	&::after {
+		content: '';
+		position: absolute;
+		display: block;
+		background: url(../img/bg_8.svg);
+		height: 1050px;
+		background-repeat: no-repeat;
+		width: 221px;
+		left: -141px;
+		top: 617px;
+		transform: rotate(180deg);
+		z-index: -1;
+	}
+	h6 {
+		font-weight: 500;
+		letter-spacing: 0.5px;
+		color: #8f8f8f;
+		font-size: 18px;
+		padding-top: 15px;
+		padding-bottom: 16px;
+	}
+	p {
+		font-size: 18px;
+		font-weight: normal;
+		line-height: 1.44;
+		letter-spacing: 0.5px;
+		color: #8f8f8f;
+		padding-top: 15px;
+		padding-bottom: 13px;
+	}
+	h1 {
+		padding-bottom: 32px;
+	}
+	.journey-info__icon,
+	.journey-info__icon2 {
+		display: none;
+	}
+}
+
+.cookies-list {
+	list-style-type: none;
+	&__wrap {
+		margin: 61px 0 88px;
+	}
+	&__item,
+	&__header {
+		display: flex;
+		flex-direction: row;
+	}
+	&__item {
+		border-top: 1px solid #979797;
+	}
+	.col {
+		text-align: center;
+		padding: 23px 10px;
+		line-height: 22px;
+		font-size: 18px;
+		letter-spacing: 0.5px;
+		color: #8F8F8F;
+		font-weight: 300;
+		border-left: 1px solid #979797;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		&1 {
+			width: 15%;
+			border-left: none;
+		}
+		&2 {
+			width: 13.5%;
+		}
+		&3 {
+			width: 51.5%;
+		}
+		&4 {
+			width: 20%;
+		}
+	}
+	&__header .col {
+		color: #8F8F8F;
+		font-weight: 600;
+		padding: 12px 10px 23px;
+	}
+}
+.cookies {
+	.documents-info{
+		margin-top: 234px;
+	}
+}
+.cookies-bg{
+	display: block;
+	content: '';
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	background: url(../img/bg_table.svg) no-repeat left top;
+	width: 192px;
+	height: 1020px;
+}
+.cookies-main{
+	.wrapper{
+		z-index: 1;
+	}
+}
+@media screen and (max-width: 1400px) {
+	.cookies-list .col4 {
+		width: 29%;
+	}
+	.cookies-list .col3 {
+		width: 42.5%;
+	}
+}
+
+@media screen and (max-width: 1279px){
+	.cookies-main{
+		padding-left: 0;
+	}
+}
+@media screen and (max-width: 1024px){
+	.cookies-main{
+		padding-top: 30px;
+	}
+	.cookies {
+		.documents-info{
+			margin-top: 150px;
+		}
+	}
+	.cookies-list {
+		width: 964px;
+		&__wrap {
+			overflow-x: auto;
+			margin-bottom: 20px;
+			margin-right: -30px;
+		}
+	}
+	.cookies-main .journey-info__icon,
+	.cookies-main .journey-info__icon2 {
+		display: block;
+	}
+	.cookies-main .journey-info__icon2 {
+		margin-bottom: 40px;
+	}
+}
+
+
+@media screen and (max-width: 1024px){
+	.cookies-main p{
+		font-size: 18px;
+		line-height: 26px;
+	}
+}
